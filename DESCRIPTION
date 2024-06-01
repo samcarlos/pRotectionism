@@ -1,0 +1,7 @@
+Package: pRotectionism
+Title: An protectionist packages
+Description: An R package dedicated to bringing protectionist policies to your code
+Version: 0.1.0
+Author: Sam Weiss
+Maintainer: Sam Weiss <samcarlos@gmail.com>
+License: MIT
