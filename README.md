@@ -11,6 +11,7 @@ Inspired by the populist policies of recent US administrations and a global resu
 Key Features
 
 ```taRiff()```: Want to delay the execution of an efficient function? Simply call taRiff() on the function along with the desired delay time in seconds. Voila! You’re back in the game, competing against more efficient code on a more even playing field.
+
 ```autaRky()```: If you are Jones-ing for that extra edge, autaRky() is for you. This function removes all imported libraries, providing you with a self-sufficient coding environment that just might help you keep your job.
 Get Started
 
